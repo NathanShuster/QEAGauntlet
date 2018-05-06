@@ -1,19 +1,23 @@
 # QEAGauntlet
 
 *Gauntlet Challenge*
+
 Nathan and Corey
+
 5/6/18
 
 *Challenge #1:*
-	Final Video: https://youtu.be/t2qowOb-j0g
-	Time: 8.61 seconds
+
+Final Video: https://youtu.be/t2qowOb-j0g
+Time: 8.61 seconds
 
 Simple challenge, simple strategy. First, turn the neato to face the bucket, then full steam ahead until collision with the
 bucket. It worked on the first try so we didn’t explore any alternatives.
 
 *Challenge #2:*
-	Final Video: https://youtu.be/fIm2P4WUpow
-	Time: 11.76 seconds
+
+Final Video: https://youtu.be/fIm2P4WUpow
+Time: 11.76 seconds
 
 We used a preplanned path composed of two checkpoints and the final BoB. We broke the problem down and solved it with a
 straightforward pattern: turn to next point, drive forward the euclidean distance to that point, then, after arrival, turn to face the
